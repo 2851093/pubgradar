@@ -28,7 +28,7 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/xiaogei/pbug.git
+git clone https://github.com/hurentian/pubgradar.git
 cd pubgradar/
 npm i
 npm i -g pino
